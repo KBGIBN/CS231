@@ -6,7 +6,8 @@ Chủ đề: **MÃ HÓA QR-CODE VÀ ĐỌC MÃ QR-CODE THÔNG QUA CAMERA TRÊN T
 
 Giảng viên hướng dẫn: thầy Nguyễn Vinh Tiệp, email: tiepnv@uit.edu.vn
 
-Nhóm sinh viên thực hiện:
+
+**Nhóm sinh viên thực hiện:**
 
 [1]. 19522255 - Hoàng Ngọc Bá Thi (Trưởng nhóm)
 
@@ -17,7 +18,8 @@ Nhóm sinh viên thực hiện:
 [4]. 19521700 - Trần Anh Khoa
 
 
-Đồ án này bao gồm:
+
+**Đồ án này bao gồm:**
 - 1 file PDF báo cáo đồ án "Project_Report.pdf".
 - 1 file Word Document báo cáo đồ án "Project_Report_Document.docx".
 - 1 file PowerPoint thuyết trình "Project_Presentation.pptx"
